@@ -1,4 +1,4 @@
-![logo](https://github.com/S-boomi.jpeg)
+![logo](https://github.com/boomi.jpeg)
 
 <h1 align="center">Hi 👋, I'm Anusiya S</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
