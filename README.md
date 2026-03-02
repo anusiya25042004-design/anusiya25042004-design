@@ -1,129 +1,126 @@
-![logo](https://github.com/boomi.jpeg)
-
-<h1 align="center">Hi 👋, I'm Anusiya S</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
-
-<img src="https://github.com/user-attachments/assets/98bdffb8-2eee-4619-ad90-e197604ca3e6"
-     width="300"
-     align="right"
-     alt="coding animation"/>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s-boomika2004&label=Profile%20views&color=0e75b6&style=flat" alt="s-boomika2004" /> </p>
-
-- 📫 How to reach me **anusiya25042004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anusiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusiya" height="30" width="40" /></a>
+<!-- ===================== BANNER IMAGE ===================== -->
+<p align="center">
+  <img src="boomi.jpeg" alt="Anusiya Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- ===================== INTRO ===================== -->
+<h1 align="center">Hi 👋, I'm Anusiya S</h1>
+<h3 align="center">Aspiring Data Scientist from India 🇮🇳</h3>
 
-# Hi, I'm Anusiya 👋
-
-🎓 B.Com Graduate | Aspiring Data Scientist  
-📍 Thiruvannamalai, Tamil Nadu, India  
-
----
-
-## About Me
-
-Aspiring Data Scientist with a strong foundation in **Python, SQL, and Machine Learning** concepts including **Regression, Classification, and Clustering**.  
-Experienced in **data cleaning, feature engineering, normalization, and standardization**, with hands-on academic and project-based learning.  
-
-Interested in applying data analysis and predictive modeling techniques to solve real-world business problems.
+<p align="center">
+  📧 anusiya25042004@gmail.com |
+  📞 9042925130 |
+  📍 Thiruvannamalai, Tamil Nadu
+</p>
 
 ---
 
-## Education
+## 👩‍💻 About Me
 
-- **Bachelor of Commerce**  
-  Loyola Arts and Science Collage 
-  2021 – 2024   
+🎓 B.Com Graduate (2021 – 2024)  
+📊 Aspiring Data Scientist with strong foundation in:
 
----
-
-## Skills
-
-### Programming
 - Python
 - SQL
+- Machine Learning (Regression, Classification, Clustering)
+- Data Cleaning & Feature Engineering
+- Normalization & Standardization
 
-### Machine Learning
-- Regression
-- Classification
-- Clustering
-
-### Data Processing
-- Data Cleaning
-- Feature Engineering
-- Normalization
-- Standardization
-
-### Data Visualization
-- Matplotlib
-- Seaborn
-- Tkinter (GUI)
-
-### Tools
-- Spyder
-- MySQL
-- MS Excel
-- Google Colab
-- VS Code
-
-### Soft Skills
-- Problem Solving
-- Analytical Thinking
-- Team Collaboration
-- Presentation Skills
+I enjoy working with data to uncover insights and solve real-world business problems.
 
 ---
 
-## Projects
+## 🎓 Education
 
-### Universal Machine Learning Web Application
- - Developed a Streamlit-based machine learning app to train models on uploaded datasets.
- - The app cleans data, applies different algorithms, and shows results clearly.
- - It helps users easily understand and compare machine learning models.
-
----
-
-### Netflix Data Analysis Dashboard (Power BI)
-- Built an interactive **Power BI dashboard** to analyze Netflix content
-- Visualized trends by **region, rating, and release year**
-- Used **Power Query** and **DAX** for data transformation and modeling
-- Highlighted key content trends to support analytical insights
+**Bachelor of Commerce**  
+Loyola Arts and Science College  
+2021 – 2024  
 
 ---
 
-### Loan Repayment Prediction System (R)
-- Developed a predictive system to assess loan repayment behavior
-- Conducted data cleaning, **EDA**, and feature selection
-- Applied machine learning algorithms with cross-validation
-- Documented model evaluation results and influencing factors
+## 🛠 Skills
+
+### 💻 Programming
+- Python  
+- SQL  
+
+### 🤖 Machine Learning
+- Regression  
+- Classification  
+- Clustering  
+
+### 🧹 Data Processing
+- Data Cleaning  
+- Feature Engineering  
+- Normalization  
+- Standardization  
+
+### 📊 Data Visualization
+- Matplotlib  
+- Seaborn  
+- Tkinter (GUI)  
+
+### 🔧 Tools
+- MySQL  
+- MS Excel  
+- Google Colab  
+- VS Code  
+- Spyder  
+- Power BI  
+
+### 🌟 Soft Skills
+- Problem Solving  
+- Analytical Thinking  
+- Team Collaboration  
+- Presentation Skills  
 
 ---
 
-## Internship & Training
+## 🚀 Projects
 
-**Micro Degree in Data Science** – Imagecon India Pvt. Ltd  
-- Worked on multiple projects and daily assessments  
-- Gained practical exposure to **Python, Data Science, and SQL**
-- Followed a structured, result-oriented learning approach
-
----
-
-## Contact
-
-- 📧 Email: anusiya25042004@gmail.com  
-- 📞 Phone: 9042925130  
-- 📍 Address: Thiruvannamalai, Tamil Nadu, India  
+### 🔹 Universal Machine Learning Web Application
+- Developed a Streamlit-based ML web app.
+- Users can upload datasets and train models.
+- Applied multiple ML algorithms.
+- Compared and displayed model performance clearly.
 
 ---
 
-⭐ *This repository represents my academic learning and hands-on projects in data science.*
+### 🔹 Netflix Data Analysis Dashboard (Power BI)
+- Built interactive dashboard analyzing Netflix content.
+- Visualized trends by region, rating, and release year.
+- Used Power Query and DAX.
+- Generated key analytical insights.
 
+---
 
+### 🔹 Loan Repayment Prediction System (R)
+- Built predictive model for loan repayment behavior.
+- Performed EDA and feature selection.
+- Applied ML algorithms with cross-validation.
+- Evaluated and documented model performance.
+
+---
+
+## 🎓 Internship & Training
+
+**Micro Degree in Data Science**  
+Imagecon India Pvt. Ltd  
+
+- Worked on multiple real-time projects  
+- Practiced Python, SQL & ML daily  
+- Followed structured, result-oriented training  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anusiya" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+⭐ *This profile represents my academic learning and hands-on projects in Data Science.*
