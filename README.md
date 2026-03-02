@@ -9,8 +9,7 @@
 
 <p align="center">
   📧 anusiya25042004@gmail.com |
-  📞 9042925130 |
-  📍 Thiruvannamalai, Tamil Nadu
+  📍 Tamil Nadu, India
 </p>
 
 ---
@@ -116,7 +115,7 @@ Imagecon India Pvt. Ltd
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/anusiya" target="blank">
+<a href="https://linkedin.com/in/anusiya-k-1ba08a389" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
